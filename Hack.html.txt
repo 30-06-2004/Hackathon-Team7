@@ -1,0 +1,80 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>introduction</title>
+<style>
+/*CSS for centering images*/
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+</style>
+</head>
+<body>
+<h1>LANGUAGE LEARNING ASSISTANT</h1>
+<p>The main motive is to simulate human conversation through text or voice using Natural Language Processing (NLP). It can understand one or more human languages by using NLP. The structure of the bot integrates computational algorithms and language model to build casual chat which covers enormous NLP techniques.</p>
+<h1>TEAM MEMBERS</h1> 
+<div>
+  <div>
+<img src="C:\Users\yasas\Desktop\yamini.jpg" width="300" height="400" alt="YAMINI SAI MEGHANA">
+<h3>YAMINI SAI MEGHANA</h3>
+<p>ROLE:BACKEND DEVELOPER</p>
+<style>
+body{
+text-align:center;
+}
+</style>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\yasaswini.jpg" width="300" height="400" alt="YASASWINI">
+<h3>YASASWINI</h3>
+<p>ROLE:BACKEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\hema.jpg" width="300" height="400" alt=HEMA SAI SREE">
+<h3>HEMA SAI SREE</h3>
+<p>ROLE:BACKEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\divya.jpg" width="300" height="400" alt="DIVYA">
+<h3>DIVYA</h3>
+<p>ROLE:FRONTEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\prasanna.jpg" width="300" height="400" alt="PRASANNA">
+<h3>PRASANNA</h3>
+<p>ROLE:FRONTEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\saranya.jpg" width="300" height="400" alt="SARANYA">
+<h3>SARANYA</h3>
+<p>ROLE:FRONTEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\pravallika.jpg" width="300" height="400" alt="PRAVALLIKA">
+<h3>PRAVALLIKA</h3>
+<p>ROLE:BACKEND DEVELOPER</P>
+</div>
+<div>
+<img src="C:\Users\yasas\Desktop\rupa.jpg" width="300" height="400" alt="RUPA">
+<h3>RUPA</h3>
+<p>ROLE:FRONTEND DEVELOPER</P>
+</div>
+<div>
+</body>
+
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
